@@ -1,0 +1,12 @@
+@import "./typography.scss";
+@import "./constants.scss";
+
+html {
+  background-color: $navy;
+  color: $white;
+}
+
+article {
+  max-width: 50em;
+  margin: 5em auto;
+}

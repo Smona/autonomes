@@ -11,6 +11,14 @@
     "next": "latest",
     "react": "17.0.2",
     "react-dom": "17.0.2",
-    "react-markdown": "^8.0.0"
+    "remark-toc": "^8.0.1",
+    "reset-css": "^5.0.1",
+    "sass": "^1.49.0"
+  },
+  "devDependencies": {
+    "@types/node": "^17.0.13",
+    "@types/react": "^17.0.38",
+    "prettier": "^2.5.1",
+    "typescript": "^4.5.5"
   }
 }

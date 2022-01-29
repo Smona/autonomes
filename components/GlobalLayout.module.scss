@@ -1,0 +1,15 @@
+@import "../styles/constants.scss";
+
+.nav {
+  display: flex;
+
+  > * {
+    margin: 0 0.4em;
+    padding: 10px;
+  }
+
+  a {
+    font-weight: bold;
+    color: $white !important;
+  }
+}
