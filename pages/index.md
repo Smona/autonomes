@@ -4,6 +4,12 @@
 
 A specification for anarchist governance & blueprint for equitable, autonomous communities.
 
+The purpose of this site is to compile information and resources for those seeking to establish
+independent communities, in the hopes that it can eventually become a complete blueprint that anyone can follow.
+
+The site is a _work in progress_, with new information and ideas being frequently added.
+None of the sections on this site are considered complete.
+
 ## Roadmap
 
 1. [Recruit founding members](/society/founding_members)
