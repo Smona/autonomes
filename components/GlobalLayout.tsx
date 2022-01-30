@@ -13,6 +13,7 @@ export default function GlobalLayout({ children }: Props) {
         <Link href="/">Home</Link>
         <Link href="/philosophy">Philosophy</Link>
         <Link href="/society">Society</Link>
+        <Link href="/construction">Construction</Link>
         <Link href="/utilities">Utilities</Link>
       </nav>
       <main>{children}</main>
