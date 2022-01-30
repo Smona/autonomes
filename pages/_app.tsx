@@ -1,8 +1,8 @@
 import type { AppProps /*, AppContext */ } from "next/app";
 import { MDXProvider } from "@mdx-js/react";
 import Link from "next/link";
-import "../styles/global.scss";
-import GlobalLayout from "../components/GlobalLayout";
+import "styles/global.scss";
+import GlobalLayout from "components/GlobalLayout";
 
 const components = {
   a: Link,
