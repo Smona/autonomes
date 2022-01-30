@@ -28,4 +28,8 @@ The [Penn State Center for Dirt and Gravel Road Studies](https://www.dirtandgrav
 construct and maintain environmentally sensitive, unpaved roadways. They publish many documents describing
 designs and techniques, which require further investigation.
 
+The article above mentions that "crews can even tamp down dust problems by regularly applying water-absorbing
+calcium chloride, organic petroleum, and vegetable oils and animal fats." This is a potential target for
+automation.
+
 </article>
